@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/GaneshPortfolio/static/css/main.f4533390.css",
+    "main.js": "/GaneshPortfolio/static/js/main.d45fbff2.js",
+    "static/js/787.1af865b6.chunk.js": "/GaneshPortfolio/static/js/787.1af865b6.chunk.js",
+    "static/media/Assetcopy.jpg": "/GaneshPortfolio/static/media/Assetcopy.b73f0d97aa346e447e7f.jpg",
+    "static/media/programming-skills.png": "/GaneshPortfolio/static/media/programming-skills.1c8a6d6857e97e5a5fed.png",
+    "static/media/Assetcopy1.jpg": "/GaneshPortfolio/static/media/Assetcopy1.647a0f541ccfa46a5126.jpg",
+    "static/media/Instagram-Icon.png": "/GaneshPortfolio/static/media/Instagram-Icon.fa6679213cc474acdff1.png",
+    "static/media/linkedin.png": "/GaneshPortfolio/static/media/linkedin.df3f373c358bcfdd92bb.png",
+    "static/media/logo.svg": "/GaneshPortfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/GaneshPortfolio/index.html",
+    "main.f4533390.css.map": "/GaneshPortfolio/static/css/main.f4533390.css.map",
+    "main.d45fbff2.js.map": "/GaneshPortfolio/static/js/main.d45fbff2.js.map",
+    "787.1af865b6.chunk.js.map": "/GaneshPortfolio/static/js/787.1af865b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4533390.css",
+    "static/js/main.d45fbff2.js"
+  ]
+}
